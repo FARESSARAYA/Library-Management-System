@@ -1,0 +1,4 @@
+2026-06-09 22:47:55  INFO      تهيئة نظام النسخ الاحتياطي | قاعدة البيانات: c:\Users\Fares\Desktop\LMS\V1\V2\app_split_barcode_fix\app_split\accounting.db | المجلد: c:\Users\Fares\Desktop\LMS\V1\V2\app_split_barcode_fix\app_split\backups | كل 6 ساعة | الاحتفاظ بـ 28 نسخة
+2026-06-09 22:47:55  INFO      📦 نسخة احتياطية أولية عند بدء التشغيل...
+2026-06-09 22:47:55  INFO      🔄 بدأ النسخ الاحتياطي التلقائي كل 6 ساعة  (نسخة فورية عند البدء)
+2026-06-09 22:47:55  WARNING   ملف قاعدة البيانات غير موجود: c:\Users\Fares\Desktop\LMS\V1\V2\app_split_barcode_fix\app_split\accounting.db
